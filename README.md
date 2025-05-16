@@ -90,7 +90,7 @@ Absolument. Le code est autonome et peut être adapté à un hébergement person
 ❓ L’interface est-elle disponible sur mobile ?
 Oui, entièrement responsive (HTML/CSS natif).
 
-🤝 Contribuer
+```🤝 Contribuer
 Toute contribution est la bienvenue. Voici comment :
 
 Fork ce dépôt
@@ -102,6 +102,8 @@ Commit : git commit -m 'Ajout d’une fonctionnalité'
 Push : git push origin feature/ma-feature
 
 Crée une Pull Request
+
+```
 
 ⚖️ Licence
 Ce projet est sous licence MIT. Vous êtes libre de l’utiliser, le modifier, le partager, tant que vous conservez l’attribution originale.
