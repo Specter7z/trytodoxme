@@ -66,7 +66,7 @@
 git clone https://github.com/specter7z/trytodoxme.git
 cd trytodoxme
 # Ouvrir index.html dans votre navigateur
-
+```
 🌐 Méthode 2 : Hébergement personnel
 Vous pouvez héberger TryTodoxMe sur un serveur Apache, Nginx ou via Vercel/Netlify.
 
