@@ -41,10 +41,15 @@
 ## 🏗️ Architecture du projet
 
 📁 trytodoxme/
+
 ├── index.html → Page principale (présentation)
+
 ├── style.css → Feuille de style (optionnel si inline)
+
 ├── README.md → Documentation projet
+
 ├── /src → Fichiers de base si implémentation backend (futur)
+
 └── /assets → Images, icônes, etc.
 ---
 
