@@ -76,7 +76,7 @@ Tous les messages sont chiffrés à l’aide de PGP ou d’une implémentation m
 Le projet prévoit zéro-logging, aucune métadonnée de suivi, et une architecture sans cookies tiers.
 
 📫 Contact
-📧 Email : diego2102@outlook.be
+📧 Email : specter@trytodoxme.xyz
 
 🔗 GitHub : github.com/specter7z
 
